@@ -19,4 +19,4 @@ Algorithms are the universal building blocks of programming. They power the soft
 
 ### Certificate [Link](https://www.linkedin.com/learning/certificates/b87c9c9222617b85f07f3c8ddca651dceca586c3cdd6598bb750e52e9b94150f?trk=share_certificate)
 
-### For More Notes:- [Notion](https://tranquil-popcorn-52a.notion.site/5-Programming-Foundations-Algorithms-1h-45m-f7470ce2f0df41d897c32be555f02ff7)
+### For More Notes:- [Notion](https://tranquil-popcorn-52a.notion.site/05-Programming-Foundations-Algorithms-50d507d5371545ba9a157dc4ca6551c2)
